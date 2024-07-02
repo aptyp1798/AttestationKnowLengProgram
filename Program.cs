@@ -27,37 +27,37 @@
 
 // Задача 3: Задайте произвольный массив. Выведете его элементы, начиная с конца. Использовать рекурсию, не использовать циклы.
 
-// int[] CreateArray(int size)
-// {
-//     Random random = new Random();
-//     int[] array = new int[size];
-//     for (int i = 0; i < array.Length; i++)
-//     {
-//         array[i] = random.Next(1, 100);
-//     }
-//     return array;
-// }
+int[] CreateArray(int size)
+{
+    Random random = new Random();
+    int[] array = new int[size];
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] = random.Next(1, 100);
+    }
+    return array;
+}
 
-// void PrintArray(int[] array)
-// {
-//     for (int i = 0; i < array.Length; i++)
-//     {
-//         Console.Write(array[i] + " ");
-//     }
-//     Console.WriteLine();
-// }
+void PrintArray(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write(array[i] + " ");
+    }
+    Console.WriteLine();
+}
 
-// void PrintReverseArray(int[] array, int i = 0)
-// {
-//     if(i < array.Length)
-//     {
-//         PrintReverseArray(array, i + 1);
-//         Console.Write(array[i] + " ");
-//     }
+void PrintReverseArray(int[] array, int i = 0)
+{
+    if(i < array.Length)
+    {
+        PrintReverseArray(array, i + 1);
+        Console.Write(array[i] + " ");
+    }
 
-// }
+}
 
-// int size = 4;
-// int[] array = CreateArray(size);
-// PrintArray(array);
-// PrintReverseArray(array);
+int size = 4;
+int[] array = CreateArray(size);
+PrintArray(array);
+PrintReverseArray(array);

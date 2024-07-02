@@ -1,0 +1,15 @@
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\bin\Debug\net8.0\AttestationKnowLengProrgam.exe
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\bin\Debug\net8.0\AttestationKnowLengProrgam.deps.json
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\bin\Debug\net8.0\AttestationKnowLengProrgam.runtimeconfig.json
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\bin\Debug\net8.0\AttestationKnowLengProrgam.dll
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\bin\Debug\net8.0\AttestationKnowLengProrgam.pdb
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\AttestationKnowLengProrgam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\AttestationKnowLengProrgam.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\AttestationKnowLengProrgam.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\AttestationKnowLengProrgam.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\AttestationKnowLengProrgam.sourcelink.json
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\AttestationKnowLengProrgam.dll
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\refint\AttestationKnowLengProrgam.dll
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\AttestationKnowLengProrgam.pdb
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\AttestationKnowLengProrgam.genruntimeconfig.cache
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\Sem_30.05\AttestationKnowLengProrgam\obj\Debug\net8.0\ref\AttestationKnowLengProrgam.dll
